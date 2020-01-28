@@ -1,0 +1,4 @@
+in this project i was tasked with creating and minipulateing train in open gl,
+and to render and allow switching between its wire frame and the terrain texture.
+
+the base project was given and i had to eddit and add code to create the terrain and minipulate it using different methods.

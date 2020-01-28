@@ -1,0 +1,4 @@
+in this project i was incharge of make ing the hazards withing the game levels for our group game,
+the code here shows the makeing of all the hazards and how they where coded.
+
+i am using C# and the game was made in unity which will explain the libraries

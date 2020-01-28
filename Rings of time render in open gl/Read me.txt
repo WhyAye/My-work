@@ -1,0 +1,2 @@
+this project i was tasked to create a render of the rings of time using open gl, 
+the code shows how the scene was rendered and how all the assets where linked. 

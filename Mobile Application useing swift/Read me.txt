@@ -1,0 +1,6 @@
+this project i was tasked to create a mobile aplication that was health themed and intigrated apples health kit,
+and that needed to use the phones hardware such as gyroscope, accelerometer etc..
+
+it war created using the swift language in xcode on an apple mac.
+
+the code shown is how the functions where coded.

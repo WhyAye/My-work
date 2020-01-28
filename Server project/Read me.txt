@@ -1,0 +1,8 @@
+in this project i was tasked to create a comunication server, the server was made in c# and allowed
+the user(s) to connect to the server and send and recive messages using udp and tcp protocols.
+
+the server was designed to work in the computer lab it was developed which is why the ips are manualy set to start the server, but others on the same network could join freely.
+
+there is no video of the server working as it was assesed in person but the server:
+- allowed the users to send messages using udp and tcp to the server to be relayed.
+- allowed the user to connect and would display who connected and disconected.

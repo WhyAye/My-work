@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{98111C86-E32A-4E5E-9A6D-982135DBDDD7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MultiplayerServer/Program.cs">
+    <Files>
+      <File FileName="MultiplayerServer/Program.cs" Line="59" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MultiplayerServer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,6 @@
+C:\Users\ryjmc\Documents\work\Multiplayer dev\MultiplayerServer - Copy\MultiplayerServer\bin\Debug\MultiplayerServer.exe
+C:\Users\ryjmc\Documents\work\Multiplayer dev\MultiplayerServer - Copy\MultiplayerServer\bin\Debug\MultiplayerServer.pdb
+C:\Users\ryjmc\Documents\work\Multiplayer dev\MultiplayerServer - Copy\MultiplayerServer\obj\x86\Debug\MultiplayerServer.csprojAssemblyReference.cache
+C:\Users\ryjmc\Documents\work\Multiplayer dev\MultiplayerServer - Copy\MultiplayerServer\obj\x86\Debug\MultiplayerServer.csproj.CoreCompileInputs.cache
+C:\Users\ryjmc\Documents\work\Multiplayer dev\MultiplayerServer - Copy\MultiplayerServer\obj\x86\Debug\MultiplayerServer.exe
+C:\Users\ryjmc\Documents\work\Multiplayer dev\MultiplayerServer - Copy\MultiplayerServer\obj\x86\Debug\MultiplayerServer.pdb
